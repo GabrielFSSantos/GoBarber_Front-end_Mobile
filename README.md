@@ -18,21 +18,17 @@
 
 ## :floppy_disk: Instalando
 
->Executar na raiz do projeto o seguinte comando para instalar as dependências
-```sh
-yarn install
-```
->ou
-```sh
-npm install
-```
+>Executar na raiz do projeto o seguinte comando para instalar as dependências<br>
+>``yarn install``<br>
+>ou<br>
+>``npm install``
+
 
 ## 💻  Executando
->Execute o aplicativo em modo de desenvolvimento
-```sh
-yarn start
-yarn android / yarn ios
-```
+>Execute o aplicativo em modo de desenvolvimento<br>
+>``yarn start``<br>
+>``yarn android / yarn ios``
+
 >Seu dispositivo deve ser configurado no modo de desenvolvedor e conectado pelo cabo USB em sua máquina, para que seja reconhecido, uma vez feito isso, basta aguardar o início do aplicativo.
 
 ## :raising_hand: Contribuindo
